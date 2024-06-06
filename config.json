@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "XDLab 2024 VivaTechMy",
+      "tensorName": "XDLab 2024 VivaTech",
       "tensorShape": [
         1000,
         50
